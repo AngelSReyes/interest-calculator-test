@@ -28,20 +28,20 @@ This project automates the testing of the **Interest Calculator** application us
 
 
 
-## Setup Instructions**
+## Setup Instructions
 
-### ** 1. Prerequisites**  
+### **1. Prerequisites**  
 Ensure you have the following installed:  
 - [Node.js](https://nodejs.org/) (LTS version recommended)  
 - [Playwright](https://playwright.dev/)  
 
-### ** 2. Install Dependencies**  
+### **2. Install Dependencies**  
 Run the following command to install all necessary dependencies:  
 ```sh
 npm install
 ```
 
-### ** 3. Install Playwright Browsers**  
+### **3. Install Playwright Browsers**  
 Playwright requires browser binaries. Install them using:  
 ```sh
 npx playwright install
