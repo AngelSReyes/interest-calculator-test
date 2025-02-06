@@ -1,0 +1,17 @@
+{
+  "name": "interest-calculator-test",
+  "version": "1.0.0",
+  "description": "Ten10 Interest Calculator Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=chromium",
+    "test:all": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "Angel Shaye Reyes",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1"
+  }
+}
